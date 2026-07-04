@@ -1,5 +1,5 @@
 {
-  "name": "my-docs",
+  "name": "document",
   "scripts": {
     "dev": "nuxt dev",
     "build": "nuxt build"
