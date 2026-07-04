@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   extends: ['docus'],
   ui: {
-    CSS: ['~/assets/css/custom.css'],
+    css: ['~/assets/css/custom.css'],
   }
 })
