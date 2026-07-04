@@ -1,5 +1,3 @@
-import { url } from "node:inspector";
-
 export default defineAppConfig({
   seo: {
     titleTemplate: "%s - 泰皇AI开放文档",
